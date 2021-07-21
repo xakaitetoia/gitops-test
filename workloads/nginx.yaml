@@ -19,8 +19,4 @@ spec:
     spec:
       containers:
       - name: hello
-<<<<<<< HEAD
-        image: linuxacademycontent/gitops:hellov1.2.1
-=======
         image: linuxacademycontent/gitops:hellov1.2
->>>>>>> parent of 17766d6 (Auto-release linuxacademycontent/gitops:hellov1.2.2)
